@@ -1,0 +1,13 @@
+{
+    "name": "dominic/fpm-guzzle-proxy",
+    "description": "PoC of Guzzle proxy misconfiguration",
+    "require": {
+        "guzzlehttp/guzzle": "~6.0"
+    },
+    "authors": [
+        {
+            "name": "Dominic Scheirlinck",
+            "email": "dominic@vendhq.com"
+        }
+    ]
+}
